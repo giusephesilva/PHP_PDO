@@ -1,1 +1,1 @@
-Aplicando conceitos de programação Orientada a Objetos em PHP
+Conceitos do uso de PDO para conexão ao banco de dados
